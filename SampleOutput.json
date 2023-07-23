@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": null, "name": "India.com" },
+      "author": "Zee Media Bureau",
+      "title": "AUS: 14-0 (4) | ENG VS AUS The Ashes 2023, 1st Test Day 2 LIVE Cricket Score and Updates: All Eyes O - Zee News",
+      "description": "AUS: 14-0 (4) | ENG VS AUS The Ashes 2023, 1st Test Day 2 LIVE Cricket Score and Updates: All Eyes O",
+      "url": "https://zeenews.india.com/cricket/live-updates/live-cricket-score-eng-vs-aus-the-ashes-2023-1st-test-day-2-match-today-england-vs-australia-live-updates-edgbaston-stadium-birmingham-ben-stokes-pat-cummins-2622185",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/06/17/1222015-whatsapp-image-2023-06-16-at-11.37.40-pm.jpeg",
+      "publishedAt": "2023-06-17T04:40:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Gaurav Gupta",
+      "title": "Give Rahul Dravid a fair opportunity to rebuild, Rohit Sharma should hit the refresh button: Graeme Smith - Times of India",
+      "description": "Cricket News: Post India’s defeat to Australia in the World Test Championship final, there has been a lot of talk about easing out India’s senior batsmen, whose ave",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/give-rahul-dravid-a-fair-opportunity-to-rebuild-rohit-sharma-must-refresh-graeme-smith/articleshow/101058189.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-101058197,width-1070,height-580,imgsize-38504,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-06-17T03:19:00Z",
+      "content": "Top-5: Most hundreds in the Ashes history"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Sports Desk",
+      "title": "'Told my wife that Australia series could become my last': Ashwin - Hindustan Times",
+      "description": "Speaking in an interview a week after that WTC final call by Indian team management, Ashwin opened up on his knee injury during the Bangladesh Test series. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/told-my-wife-that-australia-series-could-become-my-last-ashwins-heartbreaking-admission-in-wake-of-wtc-final-snub-101686920320432.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/06/16/1600x900/New_Project_-_2022-12-04T164947974_1670152897858_1686921328367.jpg",
+      "publishedAt": "2023-06-17T01:41:41Z",
+      "content": "The World Test Championship snub was a significant blow to Ravichandran Ashwin's illustrious Test career. Despite 474 Test wickets, among top-10 in the world, in a career spanning over a decade and w… [+3652 chars]"
+    }
+  ]
+}
